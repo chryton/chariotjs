@@ -9,3 +9,8 @@ It also allows for rapid, async actions or queued sync actions based on what the
 Chariot also allows for non-cart actions to be taken and unified using the same actions and functionality as the cart.
 
 Plus "chariot" is French for "cart!"
+
+
+## Notes
+
+All core API endpoints are derived from [https://shopify.dev/docs/ajax-api/reference](https://shopify.dev/docs/ajax-api/reference)
